@@ -1,0 +1,2 @@
+# blogs
+DevDojo Blog Template
